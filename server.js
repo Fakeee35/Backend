@@ -10,7 +10,7 @@ const ADMIN_ID = "A@b@c";
 const ADMIN_PASSWORD = "A@b@c";
 
 // MongoDB URI
-const MONGO_URI = "mongodb+srv://Srf44334:1233@cluster0.gzdgh6a.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const MONGO_URI = "mongodb+srv://Srf44334:srf44334@cluster0.gzdgh6a.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 // Initialize
 const app = express();
